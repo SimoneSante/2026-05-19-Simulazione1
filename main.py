@@ -1,8 +1,8 @@
 import flet as ft
 
-from model.model import Model
-from UI.view import View
 from UI.controller import Controller
+from UI.view import View
+from model.model import Model
 
 
 def main(page: ft.Page):
